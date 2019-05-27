@@ -1,0 +1,12 @@
+{
+  "MailSettings": {
+    "ToAddress": "sonwabilestarzuma@gmail.com"
+  },
+
+  "ConnectionStrings": {
+    "WoldContextConnection": "Server=DESKTOP-3K47SR3;Database=TheWorld;Trusted_Connection=True;MultipleActiveResultSets=true;"
+  },
+  "Keys": {
+    "BingKey": "DONTEVERPUTKEYSINSOURCECONTROL"
+  }
+}
